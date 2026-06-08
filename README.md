@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Nome da aluna: Erika Honorato da Silva
+Nome do professor: Thiago Guimarães Tavares
+Disciplina: Projeto de Interface Web
 
-# Run and deploy your AI Studio app
+Descrição: Um aplicativo de organização simplista mas eficaz com o objetivo de auxiliar na organização e nas tarefas cotidianas.
 
-This contains everything you need to run your app locally.
+Imagem inicial do app:
+<img width="439" height="953" alt="image" src="https://github.com/user-attachments/assets/b4c62d4f-9dd9-44af-b33e-937ccd8654b1" />
 
-View your app in AI Studio: https://ai.studio/apps/f184f0bb-1141-474b-9340-97be3a5b71d3
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Versão média fidelidade:
+<img width="3095" height="1206" alt="App To-do list (1) (1)" src="https://github.com/user-attachments/assets/d679cc38-3d0a-45bb-a0d0-49f88cc8355e" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
