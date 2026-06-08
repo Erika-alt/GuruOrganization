@@ -1,0 +1,6 @@
+{
+  "name": "Guru Organização",
+  "description": "Sistema de produtividade e gerenciamento de tarefas estruturado e minimalista para foco e clareza mental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
