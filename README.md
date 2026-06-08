@@ -2,7 +2,7 @@ Nome da aluna: Erika Honorato da Silva
 Nome do professor: Thiago Guimarães Tavares
 Disciplina: Projeto de Interface Web
 
-Descrição: Um aplicativo de organização simplista mas eficaz com o objetivo de auxiliar na organização e nas tarefas cotidianas.
+Descrição: Um aplicativo de organização simplista mas eficaz com o objetivo de auxiliar na organização e nas tarefas cotidianas feito através do google ai studio.
 
 Imagem inicial do app:</p>
 <img width="439" height="953" alt="image" src="https://github.com/user-attachments/assets/b4c62d4f-9dd9-44af-b33e-937ccd8654b1" />
